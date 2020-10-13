@@ -651,6 +651,9 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services{
+  margin-top: 80px;
+}
 .services .icon-box {
   text-align: center;
   border: 1px solid #ebebeb;
