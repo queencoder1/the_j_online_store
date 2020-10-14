@@ -9,21 +9,25 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Felipa", cursive;
-  color: #444444;
+
+ font-family: "Felipa", cursive;
+ font-family: "Open Sans", sans-serif;
+ color: #444444;
 }
 
 a {
-  color: #ffc451;
+  color: #3A8290;
 }
 
 a:hover {
-  color: #ffd584;
+  color: #57B7CC;
   text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Felipa", cursive;
+  
+
 }
 
 /*--------------------------------------------------------------
@@ -45,14 +49,14 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #ffc451;
+  background: #3A8290;
   color: #151515;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
   background: #151515;
-  color: #ffc451;
+  color: #57B7CC;
 }
 
 /*--------------------------------------------------------------
@@ -169,10 +173,11 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #3A8290;
   transition: 0.3s;
   font-size: 15px;
   font-family: "Open Sans", sans-serif;
+  font-style: italic;
   font-weight: 600;
 }
 
@@ -519,7 +524,8 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Felipa", cursive;
+  font-family: 'Felipa', cursive;
+  
 }
 
 .section-title h2::after {
@@ -689,7 +695,9 @@ section {
 
 .services .icon-box h4 {
   font-weight: 700;
-  margin-bottom: 15px;
+  margin-bottom:
+ 15px;
+ margin-top: 15px;
   font-size: 24px;
 }
 
@@ -734,7 +742,8 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Felipa", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -916,7 +925,7 @@ section {
 .counts .content .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Felipa", cursive;
   font-size: 14px;
   color: #3b3b3b;
 }
@@ -927,7 +936,7 @@ section {
   margin-top: 20px;
   color: #3b3b3b;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Felipa", cursive;
   transition: ease-in-out 0.3s;
 }
 
@@ -1467,7 +1476,8 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
   color: #fff;
 }
 
