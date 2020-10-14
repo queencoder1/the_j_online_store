@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
- font-family: 'Felipa', cursive;
- font-family: 'Open Sans', sans-serif;
+ font-family: "Felipa", cursive;
+ font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Felipa', cursive;
+  font-family: "Felipa", cursive;
   
 
 }
@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #3A8290;
   transition: 0.3s;
   font-size: 15px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-style: italic;
   font-weight: 600;
 }
@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 64px;
   color: #fff;
-  font-family: 'Felipa', cursive;
+  font-family: "Felipa", cursive;
 }
 
 #hero h1 span {
@@ -743,7 +743,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-style: italic;
   font-weight: 600;
   font-size: 16px;
@@ -926,7 +926,7 @@ section {
 .counts .content .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
-  font-family: 'Felipa', cursive;
+  font-family: "Felipa", cursive;
   font-size: 14px;
   color: #3b3b3b;
 }
@@ -937,7 +937,7 @@ section {
   margin-top: 20px;
   color: #3b3b3b;
   font-size: 15px;
-  font-family: 'Felipa', cursive;
+  font-family: "Felipa", cursive;
   transition: ease-in-out 0.3s;
 }
 
@@ -1477,7 +1477,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #fff;
 }
