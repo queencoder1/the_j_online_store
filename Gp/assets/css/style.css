@@ -439,9 +439,15 @@ h1, h2, h3, h4, h5, h6 {
 #hero .icon-box {
   padding: 30px 20px;
   transition: ease-in-out 0.3s;
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 5px solid rgba(255, 255, 255, 0.3);
   height: 100%;
   text-align: center;
+}
+#hero .icon-box img{
+  max-width: 100%;
+  height: auto;
+  margin: thin;
+  padding: none;
 }
 
 #hero .icon-box i {
