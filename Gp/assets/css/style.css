@@ -9,9 +9,10 @@
 # General
 --------------------------------------------------------------*/
 body {
+
  font-family: "Felipa", cursive;
  font-family: "Open Sans", sans-serif;
-  color: #444444;
+ color: #444444;
 }
 
 a {
@@ -224,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
+  font-family: "Felipa", cursive;
   padding-left: 5px;
 }
 
@@ -245,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down .drop-down > a:after {
   content: "\eaa0";
-  font-family: IcoFont;
+  font-family: "Felipa", cursive;
   position: absolute;
   right: 15px;
 }
@@ -345,7 +346,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
+  font-family: "Felipa", cursive;
   padding-left: 10px;
   position: absolute;
   right: 15px;
@@ -542,8 +543,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
-  font-style: italic;
+  font-family: "Felipa", cursive;
   color: #151515;
 }
 
@@ -553,8 +553,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
-  font-family: 'Open Sans', sans-serif;
-  font-style: italic;
+  font-family: "Felipa", cursive;
 }
 
 .about .content ul {
@@ -664,7 +663,7 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-.services{
+.products{
   margin-top: 80px;
 }
 .services .icon-box {
