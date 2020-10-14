@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Felipa", cursive;
   color: #444444;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Felipa", cursive;
 }
 
 /*--------------------------------------------------------------
@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
+  font-family: "Felipa", cursive;
   padding-left: 5px;
 }
 
@@ -241,7 +241,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down .drop-down > a:after {
   content: "\eaa0";
-  font-family: IcoFont;
+  font-family: "Felipa", cursive;
   position: absolute;
   right: 15px;
 }
@@ -341,7 +341,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
+  font-family: "Felipa", cursive;
   padding-left: 10px;
   position: absolute;
   right: 15px;
@@ -423,7 +423,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 64px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Felipa", cursive;
 }
 
 #hero h1 span {
@@ -513,7 +513,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  font-family: "Felipa", cursive;
 }
 
 .section-title h2::after {
@@ -531,7 +531,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Felipa", cursive;
   color: #151515;
 }
 
@@ -541,7 +541,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Felipa", cursive;
 }
 
 .about .content ul {
@@ -725,7 +725,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Felipa", cursive;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
