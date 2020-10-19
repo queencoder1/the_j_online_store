@@ -9,7 +9,6 @@
 # General
 --------------------------------------------------------------*/
 body {
-
  font-family: "Felipa", cursive;
  font-family: "Open Sans", sans-serif;
  color: #444444;
@@ -26,8 +25,6 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Felipa", cursive;
-  
-
 }
 
 /*--------------------------------------------------------------
@@ -524,7 +521,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: 'Felipa', cursive;
+  font-family: "Felipa", cursive;
   
 }
 
